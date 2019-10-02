@@ -1,2 +1,4 @@
-# sic-gestor
+﻿# sic-gestor
 Sistema de gestão de cursos
+
+" Sistema criado para estudo propio "
